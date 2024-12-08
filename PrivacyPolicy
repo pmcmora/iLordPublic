@@ -12,13 +12,13 @@ AdMob
 
 	•	AdMob, a Google service, is used to display ads within the app.
 	•	AdMob may collect anonymized data, such as device identifiers, app interactions, and general location (not precise GPS data), to serve personalized or non-personalized ads.
-	•	For more information on how AdMob collects and uses data, please refer to Google’s Privacy Policy.
+	•	For more information on how AdMob collects and uses data, please refer to Google’s Privacy Policy (https://policies.google.com/privacy)
 
 ChatGPT API (OpenAI)
 
 	•	The app communicates with OpenAI’s ChatGPT API to generate responses based on user input.
 	•	User inputs (text) are sent to OpenAI servers for processing and response generation.
-	•	OpenAI does not store user data for long-term retention or model training. For more details, review OpenAI’s API Terms of Use.
+	•	OpenAI does not store user data for long-term retention or model training. For more details, review OpenAI’s API Terms of Use (https://openai.com/terms/).
 
 2. How We Use Information
 
@@ -41,8 +41,8 @@ We implement reasonable security measures to ensure that user data processed thr
 5. User Rights
 
 As the app does not collect personal information directly, there is no personal data stored by us to access, correct, or delete. However, you can manage your data rights with our third-party providers:
-	•	To manage AdMob ad preferences, visit Google Ads Settings.
-	•	For information on OpenAI’s data handling, review their Privacy Policy.
+	•	To manage AdMob ad preferences, visit Google Ads Settings (https://adssettings.google.com/).
+	•	For information on OpenAI’s data handling, review their Privacy Policy (https://openai.com/privacy/).
 
 6. Children’s Privacy
 
@@ -59,5 +59,5 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 Key Links
 
-	•	Google AdMob Privacy Policy
-	•	OpenAI Privacy Policy
+	•	Google AdMob Privacy Policy (https://policies.google.com/privacy)
+	•	OpenAI Privacy Policy (https://openai.com/privacy)
