@@ -1,0 +1,63 @@
+Privacy Policy for iLord app
+
+Effective Date: 12/8/2024
+
+This Privacy Policy explains how iLord (“we,” “our,” or “us”) collects, uses, and protects information when you use our app. By using iLord, you agree to the terms outlined in this Privacy Policy.
+
+1. Information We Collect
+
+We do not directly collect or store any personal information from users of the iLord app. However, the following third-party services integrated into the app may process limited data:
+
+AdMob
+
+	•	AdMob, a Google service, is used to display ads within the app.
+	•	AdMob may collect anonymized data, such as device identifiers, app interactions, and general location (not precise GPS data), to serve personalized or non-personalized ads.
+	•	For more information on how AdMob collects and uses data, please refer to Google’s Privacy Policy.
+
+ChatGPT API (OpenAI)
+
+	•	The app communicates with OpenAI’s ChatGPT API to generate responses based on user input.
+	•	User inputs (text) are sent to OpenAI servers for processing and response generation.
+	•	OpenAI does not store user data for long-term retention or model training. For more details, review OpenAI’s API Terms of Use.
+
+2. How We Use Information
+
+The information processed by third-party services is used for:
+	•	Serving ads through AdMob (to support app development and provide the app for free).
+	•	Generating AI-driven chat responses via the ChatGPT API.
+
+We do not collect or store any personal data for our own use.
+
+3. Sharing of Information
+
+We do not sell, trade, or rent user data. Any information processed is shared only with:
+	•	Google AdMob: For ad delivery and analytics.
+	•	OpenAI: For AI-generated chat responses.
+
+4. Data Security
+
+We implement reasonable security measures to ensure that user data processed through third-party services is protected. However, please note that no transmission over the internet is completely secure.
+
+5. User Rights
+
+As the app does not collect personal information directly, there is no personal data stored by us to access, correct, or delete. However, you can manage your data rights with our third-party providers:
+	•	To manage AdMob ad preferences, visit Google Ads Settings.
+	•	For information on OpenAI’s data handling, review their Privacy Policy.
+
+6. Children’s Privacy
+
+iLord is not intended for use by children under the age of 13 without parental consent. If you are a parent or guardian and believe your child has provided personal information through third-party services, please contact the relevant provider (Google or OpenAI) to address the issue.
+
+7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted in the app, and the “Effective Date” at the top will be updated. Continued use of the app constitutes acceptance of the updated policy.
+
+8. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+	•	Email: [Insert Contact Email]
+
+Key Links
+
+	•	Google AdMob Privacy Policy
+	•	OpenAI Privacy Policy
